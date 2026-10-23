@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "changelog": "- Fix kênh\n- Thêm kênh mới",
+  "versionCode": 3,
+  "versionName": "1.1.3",
+  "changelog": "- Cập nhật kênh (160 kênh)\n- Sửa link hỏng\n- Thêm kênh mới",
   "downloadUrl": "https://raw.githubusercontent.com/boxgovap/listtv/main/app-release.apk",
-  "sha256": "DIEN_SHA256_CUA_FILE_APK_O_DAY",
+  "sha256": "e60595196c4a8c51c5bcdf078b6edf44b2ac8b5d13baabd1aa939ef02f760525",
   "playlistSha256": "f84a37877d28caad12d2e62cdce87ed07ab014c517ef93ff278f83fa5a0606c7"
 }
